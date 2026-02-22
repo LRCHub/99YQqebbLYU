@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "REEEWIND!",
+  "base_artist": "m-flo loves Crystal Kay",
+  "createdAt": "2026-02-22T18:46:13.290795Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "REEEWIND!",
+      "artist": "m-flo feat. Crystal Kay",
+      "has_synced": true,
+      "path": "select/01_REEEWIND!_m-flo_feat._Crystal_Kay.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "REEEWIND!",
+      "artist": "m-flo/Crystal Kay",
+      "has_synced": true,
+      "path": "select/02_REEEWIND!_m-flo_Crystal_Kay.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "REEEWIND!",
+      "artist": "m‐flo♥Kay, Crystal",
+      "has_synced": true,
+      "path": "select/03_REEEWIND!_m‐flo♥Kay,_Crystal.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "REEEWIND!",
+      "artist": "m-flo",
+      "has_synced": false,
+      "path": "select/04_REEEWIND!_m-flo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "REEEWIND!",
+      "artist": "m-flo♥Crystal Kay",
+      "has_synced": true,
+      "path": "select/05_REEEWIND!_m-flo♥Crystal_Kay.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "REEEWIND!",
+      "artist": "m-flo",
+      "has_synced": true,
+      "path": "select/06_REEEWIND!_m-flo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "REEEWIND!",
+      "artist": "m‐flo",
+      "has_synced": true,
+      "path": "select/07_REEEWIND!_m‐flo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "REEEWIND!",
+      "artist": "m‐flo",
+      "has_synced": true,
+      "path": "select/08_REEEWIND!_m‐flo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "REEEWIND!",
+      "artist": "m-flo",
+      "has_synced": true,
+      "path": "select/09_REEEWIND!_m-flo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "REEEWIND!",
+      "artist": "m‐flo, Crystal Kay",
+      "has_synced": true,
+      "path": "select/10_REEEWIND!_m‐flo,_Crystal_Kay.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "REEEWIND!",
+      "artist": "m-flo loves Crystal Kay",
+      "has_synced": false,
+      "path": "select/pl_01_REEEWIND!_m-flo_loves_Crystal_Kay.txt"
+    }
+  ]
+}
